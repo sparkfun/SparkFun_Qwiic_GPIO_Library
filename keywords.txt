@@ -1,0 +1,32 @@
+########################################################
+# Syntax Coloring Map for SparkFun Qwiic GPIO Library #
+########################################################
+# Class
+###################################################################
+
+TCA9534             	KEYWORD1
+
+###################################################################
+# Methods and Functions
+###################################################################
+
+begin	                KEYWORD2
+
+pinMode	                KEYWORD2
+invertPin	            KEYWORD2
+digitalWrite	        KEYWORD2
+digitalRead	            KEYWORD2
+digitalReadPort	        KEYWORD2
+
+readBit	                KEYWORD2
+writeBit	            KEYWORD2
+readRegister	        KEYWORD2
+writeRegister	        KEYWORD2
+
+###################################################################
+# Constants
+###################################################################
+GPIO_OUT				LITERAL1
+GPIO_IN 				LITERAL1
+INVERT  				LITERAL1
+NO_INVERT  				LITERAL1
